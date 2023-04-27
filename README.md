@@ -15,7 +15,7 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"    height="50px">Languages and Tools
 ## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="java 5"   alt="html5" width="40px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffullkade.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fic-kotlin-e1564858211200.png&tbnid=fmgKCRHpUcw1RM&vet=12ahUKEwiG3efiuMr-AhVemicCHRhFD2oQMygBegUIARCkAQ..i&imgrefurl=https%3A%2F%2Ffullkade.com%2F1396%2F08%2Fkotlin%2F&docid=51nN6bv18MdggM&w=300&h=300&q=%D9%86%D9%85%D8%A7%D8%AF%20%DA%A9%D8%A7%D8%AA%D9%84%DB%8C%D9%86&hl=fa&ved=2ahUKEwiG3efiuMr-AhVemicCHRhFD2oQMygBegUIARCkAQ"/></code>
+<code><img title="java 5"   alt="html5" width="40px" src="C:\Users\user\imgres"/></code>
 
 
 <!--
