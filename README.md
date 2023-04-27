@@ -48,6 +48,12 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
    <a href="https://eitaa.com/NrAi0818⁩" >
     <img align="center" alt="Naser Ahmadi | Eitta" width="25px" src="http://s7.picofile.com/file/8389773568/05.png" />
   </a> &nbsp;&nbsp;
+    <a href="https://eitaa.com/NrAi0818⁩" >
+    <img align="center" alt="Naser Ahmadi | Telegram" width="25px" src="[http://s7.picofile.com/file/8389773568/05.png](https://www.jowhareh.com/images/Jowhareh/galleries_5/large_c352012d-93cb-4900-9f65-b1bb999f014f.webp)" />
+  </a> &nbsp;&nbsp;
+    <a href="https://eitaa.com/NrAi0818⁩" >
+    <img align="center" alt="Naser Ahmadi | Instagram" width="25px" src="http://s7.picofile.com/file/8389773568/05.png" />
+  </a> &nbsp;&nbsp;
   <p> 
  
 <div align="center">
