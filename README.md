@@ -1,13 +1,9 @@
 <h3 align="center">
+  <br>
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</br>
 </h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Amirhossein;Computer+Science+Student;Full-Stack+Javascript+Developer;Always+learning+new+things;" alt="Title"></img>
-</div>
-
-<br/>
 
 <div align="center">
   
