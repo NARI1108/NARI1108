@@ -36,6 +36,9 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 <code><img title="Android" alt="html5" width="40px" src="https://elecomco.com/wp-content/uploads/2021/02/elecomco-com-android-logo-1.jpg"/></code>
 
 
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
+
+<br />
 
 
 <!--
