@@ -5,8 +5,8 @@
 <h><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🪴</font></font>I think I have a long way to go to be a real programmer. I want to work in application development and I plan to learn related languages. If anyone wants to help me or give me advice, I will be very happy.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌳</font></font></h>
 <h> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👻</font></font> I'm going to sleep Follow my projects and write your opinion. This cat is my mate really is cool . goodbye
 friends <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛌</font></font></h>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools
-![header](https://user-images.githubusercontent.com/125409221/234928370-c464935f-52f4-4c77-b24e-c2316dcb56a2.gif)
+##<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px">Languages/Tools 
+
 
 ![download](https://user-images.githubusercontent.com/125409221/229837342-400ebba0-5632-4cab-96c0-59131347ffd2.gif) ![coding](https://user-images.githubusercontent.com/125409221/234919067-47e36d6c-c1e8-4deb-88fc-7caca0f83108.gif)
 
