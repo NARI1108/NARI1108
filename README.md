@@ -5,11 +5,10 @@
 
 </h3>
 
-<div align="center">
   
  ![Android-Version-History-min](https://user-images.githubusercontent.com/125409221/234951563-c19fc94f-6c55-4b8f-bd20-15347a51171b.jpg)
   
-</div>
+
   
 <h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏢</font></font>I am currently a student studying software engineering.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤓</font></font></h>
 <h>I have just come home and I am very hungry. I have to cook.well <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍔</font></font> is nice for now</h>
