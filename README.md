@@ -45,8 +45,15 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
   <a href="2022naserahmadi@gmail.com" >
     <img align="center" alt="Naser Ahmadi | Gmail" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
   </a> &nbsp;&nbsp;
+   <a href="https://eitaa.com/NrAi0818⁩" >
+    <img align="center" alt="Naser Ahmadi | Eitta" width="25px" src="http://s6.picofile.com/file/8389773534/04.png" />
+  </a> &nbsp;&nbsp;
+  <p> 
+ 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=F38F02&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
   </div>
-
+  
 
 <!--
 **NARI1108/NARI1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
