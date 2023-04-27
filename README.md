@@ -30,7 +30,7 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 <code><img title="GitHub"   alt="html5" width="40px" src="https://adminesite.com/wp-content/uploads/2019/09/GitHub.png"/></code>
 <code><img title="GitKraken"   alt="html5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BJtkUErLUJJqeqotL7CAb77J4Djxq88G7w&usqp=CAU"/></code>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px">I'm Developer:
-<code><img title="Kotlin" alt="html5" width="40px" src="[https://avasam.ir/assets/img/libs/avatars/5e860fe545601.jpg](https://elecomco.com/wp-content/uploads/2021/02/elecomco-com-android-logo-1.jpg)" /></code>
+<code><img title="Kotlin" alt="html5" width="40px" src="https://elecomco.com/wp-content/uploads/2021/02/elecomco-com-android-logo-1.jpg" /></code>
 </div>
 
 <!-- <p align="center"> -->  
