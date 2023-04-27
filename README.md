@@ -4,10 +4,10 @@
   <img src="https://appsaz.ir/wp-content/uploads/2019/08/Android-Version-History-min.jpg" width="28">
 
 </h3>
-
+<h3 align="center">
   
  ![Android-Version-History-min](https://user-images.githubusercontent.com/125409221/234951563-c19fc94f-6c55-4b8f-bd20-15347a51171b.jpg)
-  
+  </h3>
 
   
 <h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏢</font></font>I am currently a student studying software engineering.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤓</font></font></h>
