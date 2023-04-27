@@ -30,15 +30,22 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 <code><img title="GitHub"   alt="html5" width="40px" src="https://adminesite.com/wp-content/uploads/2019/09/GitHub.png"/></code>
 <code><img title="GitKraken"   alt="html5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BJtkUErLUJJqeqotL7CAb77J4Djxq88G7w&usqp=CAU"/></code>
 
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Developer
-
-<code><img title="Android" alt="html5" width="40px" src="https://elecomco.com/wp-content/uploads/2021/02/elecomco-com-android-logo-1.jpg"/></code>
+<!-- <p align="center"> -->  
+<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" /> -->
+<!-- </p> -->
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
 <br />
+
+<p align="center">
+  <a href="amirho3einmalekian@gmail.com" >
+    <img align="center" alt="Amirhossein Malekian | Gmail" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+  </a> &nbsp;&nbsp;
+  </div>
 
 
 <!--
