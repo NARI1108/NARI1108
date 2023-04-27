@@ -16,7 +16,7 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 ## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="java 5"   alt="html5" width="40px" src=""/></code>
-<body><img src="C:\Users\user\Pictures"></body>
+<body><img src="C:\Users\user\Pictures\imgres"></body>
 
 <!--
 **NARI1108/NARI1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
