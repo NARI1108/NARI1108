@@ -1,6 +1,19 @@
-<h1> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤽</font></font> Hey Guys .I'm Naser 👋 </h1> 
-##<div align="center">
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Amirhossein;Computer+Science+Student;Full-Stack+Javascript+Developer;Always+learning+new+things;" alt="Title"></img>
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ![github-banner](https://user-images.githubusercontent.com/79522638/166133864-99e5d96a-5928-42a4-9439-3b3ee9bb7823.png)
+  
+</div>
   
 <h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏢</font></font>I am currently a student studying software engineering.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤓</font></font></h>
 <h>I have just come home and I am very hungry. I have to cook.well <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍔</font></font> is nice for now</h>
