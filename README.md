@@ -39,7 +39,7 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
-<br />
+
 
 <p align="center">
   <a href="2022naserahmadi@gmail.com" >
