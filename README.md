@@ -1,5 +1,7 @@
 <h1> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤽</font></font> Hey Guys .I'm Naser 👋 </h1> 
-
+##<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Amirhossein;Computer+Science+Student;Full-Stack+Javascript+Developer;Always+learning+new+things;" alt="Title"></img>
+  
 <h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏢</font></font>I am currently a student studying software engineering.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤓</font></font></h>
 <h>I have just come home and I am very hungry. I have to cook.well <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍔</font></font> is nice for now</h>
 <h>Well, my profile is a picture of a cat. I don't know why I fell in love with cats?!<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤣</font></font></h>
