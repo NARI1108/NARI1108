@@ -4,14 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 </h3>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Naser Ahmadi;SoftWare+Computer+Engineering+Student;Android+Developer;Always+learning+new+things;" alt="Title"></img>
-</div>
 <h3 align="center">
   
  ![Android-Version-History-min](https://user-images.githubusercontent.com/125409221/234951563-c19fc94f-6c55-4b8f-bd20-15347a51171b.jpg)
   </h3>
-
+## 👨‍💻 About Me
   
 <h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏢</font></font>I am currently a student studying software engineering.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤓</font></font></h>
 <h>I have just come home and I am very hungry. I have to cook.well <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍔</font></font> is nice for now</h>
