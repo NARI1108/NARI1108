@@ -8,7 +8,7 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 
 
 
-![download](https://user-images.githubusercontent.com/125409221/229837342-400ebba0-5632-4cab-96c0-59131347ffd2.gif) ![coding](https://user-images.githubusercontent.com/125409221/234919067-47e36d6c-c1e8-4deb-88fc-7caca0f83108.gif)
+![download](https://user-images.githubusercontent.com/125409221/229837342-400ebba0-5632-4cab-96c0-59131347ffd2.gif) 
 
 
 
