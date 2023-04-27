@@ -25,10 +25,6 @@ friends <font style="vertical-align: inherit;"><font style="vertical-align: inhe
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Developer
-
-## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
-<code><img title="Android" alt="html5" width="40px" src="https://elecomco.com/wp-content/uploads/2021/02/elecomco-com-android-logo-1.jpg"/></code>
 <!--
 **NARI1108/NARI1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
