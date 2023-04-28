@@ -24,7 +24,9 @@ My motto of being determined toward the software world and its development for t
 <code><img title="Kotlin" alt="html5" width="40px" src="https://avasam.ir/assets/img/libs/avatars/5e860fe545601.jpg" /></code>
 <code><img title="Java "   alt="html5" width="40px" src="https://123project.ir/wp-content/uploads/2022/09/download.png"/></code>
 <code><img title="GitHub"   alt="html5" width="40px" src="https://adminesite.com/wp-content/uploads/2019/09/GitHub.png"/></code>
-<code><img title="GitKraken"   alt="html5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BJtkUErLUJJqeqotL7CAb77J4Djxq88G7w&usqp=CAU"/></code>
+<code><img title="GitKraken"   alt="html5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BJtkUErLUJJqeqotL7CAb77J4Djxq88G7w&usqp=CAU"/>
+</code>
+<code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> I'm  a Developer:
 <code><img title="Android" alt="html5" width="40px" src="https://elecomco.com/wp-content/uploads/2021/02/elecomco-com-android-logo-1.jpg" /></code>
 </div>
