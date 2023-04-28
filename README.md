@@ -9,10 +9,10 @@
  ![Android-Version-History-min](https://user-images.githubusercontent.com/125409221/234951563-c19fc94f-6c55-4b8f-bd20-15347a51171b.jpg)
   </h3>
 ## 👨‍💻 About Me
-## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## <img align="right" width='50%' alt="GIF" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://karnakon.ir/wp-content/uploads/2021/02/8-10.jpg)"/>
   
 
-![download](https://user-images.githubusercontent.com/125409221/229837342-400ebba0-5632-4cab-96c0-59131347ffd2.gif) 
+
 
 
 
