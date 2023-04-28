@@ -2,12 +2,8 @@
   
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
 </h3>
-<h3 align="center">
-  
- ![Android-Version-History-min](https://user-images.githubusercontent.com/125409221/234951563-c19fc94f-6c55-4b8f-bd20-15347a51171b.jpg)
-  </h3>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHBb748IuBoUp_treih0PMg7wDPCTgF6R_g&usqp=CAU">
 ## 👨‍💻 About Me
 ## <img align="right" width='50%'  src="https://karnakon.ir/wp-content/uploads/2021/02/8-10.jpg"/>
   
