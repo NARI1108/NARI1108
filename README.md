@@ -13,6 +13,7 @@
   
  I'm a passionate self-taught Android Developer and a Freelance  Developer from Iran.
 
+As a Android developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 
 
 
