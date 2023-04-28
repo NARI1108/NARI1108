@@ -2,8 +2,9 @@
   
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+ <img src="https://i.pinimg.com/originals/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.png">
 </h3>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHBb748IuBoUp_treih0PMg7wDPCTgF6R_g&usqp=CAU">
 ## 👨‍💻 About Me
 ## <img align="right" width='50%'  src="https://karnakon.ir/wp-content/uploads/2021/02/8-10.jpg"/>
   
