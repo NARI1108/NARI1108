@@ -14,7 +14,7 @@ As a Android developer, I enjoy using my obsessive attention to detail, and my u
 I'm also an open-source enthusiast & maintainer and I would love to be a small part of this community by collaborating and sharing knowledge.
 
 My motto of being determined toward the software world and its development for the betterment of the standard of living of society
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=Software+Engineer)](https://git.io/typing-svg)
 - 🎓  I'm currently studying Computer Engineering at the University of Kashan.
 - 🌱 I'm on track to learning more about Software Architecture,Tools related to it.
 
