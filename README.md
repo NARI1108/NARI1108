@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <h3 align="center">
   
   Welcome to my profile!
@@ -83,3 +84,4 @@ My motto of being determined toward the software world and its development for t
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NARI1108&bg_color=111311&color=ebfb0e&line=e01063&point=24e0c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
