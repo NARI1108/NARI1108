@@ -63,16 +63,21 @@ My motto of being determined toward the software world and its development for t
   </div>
   
 ![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
-📈state ##
-<p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />
 
-<img width=”48%” src=”https://github-readme-stats.vercel.app/api?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true” alt=”#your-username” />
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> About Some Stats
 
-<img width=”48%” src=”https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true” alt=”#your-username” />
+<div align="center">
+  
+<!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&theme=algolia&line_height=40&hide=css"/> -->
+  
+<!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs" /> -->
 
-</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&langs_count=8&theme=algolia"/>
+ 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirmalekian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+</div>
 
 
 <!--
