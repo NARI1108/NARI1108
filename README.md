@@ -70,6 +70,12 @@ My motto of being determined toward the software world and its development for t
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARI1108&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NARI1108}/count.svg" /></p> 
+<br>
+</div>
+
 ## My Activity At GitHub
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NARI1108&bg_color=111311&color=ebfb0e&line=e01063&point=24e0c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
