@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF03DAC5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDAAF03&height=120&section=header"/>
 <h3 align="center">
   
   Welcome to my profile!
