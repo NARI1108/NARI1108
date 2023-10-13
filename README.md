@@ -79,19 +79,4 @@ My motto of being determined toward the software world and its development for t
   
 </div>
 
-
-<!--
-**NARI1108/NARI1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...Android And JavaScript
-- 🌱 I’m currently learning ...Android AND Javascript
-- 👯 I’m looking to collaborate on ...with people
-- 🤔 I’m looking for help with ...for your Projects
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...lol
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NARI1108&bg_color=111311&color=ebfb0e&line=e01063&point=24e0c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
