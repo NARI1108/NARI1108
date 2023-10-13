@@ -24,8 +24,10 @@ My motto of being determined toward the software world and its development for t
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"Languages and Tools:/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px">Languages and Tools:
+
 ## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
+
 <code><img title="Kotlin" alt="html5" width="40px" src="https://avasam.ir/assets/img/libs/avatars/5e860fe545601.jpg" /></code>
 <code><img title="Java "   alt="html5" width="40px" src="https://123project.ir/wp-content/uploads/2022/09/download.png"/></code>
 <code><img title="WakaTime "  alt="html5" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzeKUtoktvZS-wypolAZZJ3yHATHjMCVgA7g&usqp=CAU"/></code>
