@@ -73,9 +73,9 @@ My motto of being determined toward the software world and its development for t
   
 <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs" /> -->
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NRAI1108&layout=compact&langs_count=8&theme=algolia"/>
  
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirmalekian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NRAI1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
 </div>
 
