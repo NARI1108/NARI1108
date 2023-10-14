@@ -46,25 +46,10 @@ My motto of being determined toward the software world and its development for t
 
 <div align="center"> 
 <a href="https://www.instagram.com/nrai1108/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "2022naserahmadi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
-<p align="center">
-  <a href="2022naserahmadi@gmail.com" >
-    <img align="center" alt="Naser Ahmadi | Gmail" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-  </a> &nbsp;&nbsp;
-   <a href="https://eitaa.com/NrAi0818⁩" >
-    <img align="center" alt="Naser Ahmadi | Eitta" width="25px" src="http://s7.picofile.com/file/8389773568/05.png" />
-  </a> &nbsp;&nbsp;
-    <a href="https://eitaa.com/NrAi0818⁩" >
-    <img align="center" alt="Naser Ahmadi | Telegram" width="25px" src="https://www.jowhareh.com/images/Jowhareh/galleries_5/poster_f79f18b6-7477-41c7-8ef0-ba9ae48f501e.png" />
-  </a> &nbsp;&nbsp;
-    <a href="https://eitaa.com/NrAi0818⁩" >
-    <img align="center" alt="Naser Ahmadi | Instagram" width="25px" src="https://www.roxo.ir/blog-panel/wp-content/uploads/2016/12/instagram-3.jpg" />
-  </a> &nbsp;&nbsp;
-  <p> 
  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=ff91a4&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
