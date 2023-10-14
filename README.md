@@ -73,7 +73,7 @@ My motto of being determined toward the software world and its development for t
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter&color=ff91a4&.glitch.me/{NARI1108}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NARI1108}/count.svg" /></p> 
 <br>
 </div>
 
