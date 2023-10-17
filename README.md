@@ -71,14 +71,10 @@ My motto of being determined toward the software world and its development for t
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NARI1108&bg_color=111311&color=ebfb0e&line=e01063&point=24e0c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
