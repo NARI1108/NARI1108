@@ -12,6 +12,8 @@
   
  I'm a passionate self-taught Android Developer and a Freelance  Developer from Iran.
 
+<a href="https://github.com/OR13"><img src="https://img.shields.io/github/followers/OR13.svg?label=@OR13&style=social" alt="GitHub"></a>
+
 As a Android developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 I'm also an open-source enthusiast & maintainer and I would love to be a small part of this community by collaborating and sharing knowledge.
 
