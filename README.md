@@ -80,3 +80,10 @@ My motto of being determined toward the software world and its development for t
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+<a href="https://github.com/NARI1108" target="_blank">
+  <img src="https://img.shields.io/github/followers/NARI1108.svg?label=Followers&style=social" alt="Followers">
+</a>
+<a href="https://github.com/NARI1108?tab=following" target="_blank">
+  <img src="https://img.shields.io/github/follows/NARI1108.svg?label=Following&style=social" alt="Following">
+</a>
