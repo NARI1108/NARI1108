@@ -7,6 +7,9 @@
 
  <img src="https://i.pinimg.com/originals/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.png">
 </h3>
+
+<img width=100%  src="https://img.shields.io/badge/:badgeContent?style=plastic&logo=github&logoColor=white&label=left&labelColor=background&color=black&cacheSeconds=https%3A%2F%2Fgithub.com%2FNARI1108%3Ftab%3Dfollowing"/>
+
 ## 👨‍💻 About Me
 ## <img align="right" width='50%'  src="https://karnakon.ir/wp-content/uploads/2021/02/8-10.jpg"/>
   
