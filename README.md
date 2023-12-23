@@ -8,7 +8,6 @@
  <img src="https://i.pinimg.com/originals/8b/c8/13/8bc8138470ece0f8c5a6dc3cd715de92.png">
 </h3>
 
-<img width=100%  src="https://img.shields.io/badge/:badgeContent?style=plastic&logo=github&logoColor=white&label=left&labelColor=background&color=black&cacheSeconds=https%3A%2F%2Fgithub.com%2FNARI1108%3Ftab%3Dfollowing"/>
 
 ## 👨‍💻 About Me
 ## <img align="right" width='50%'  src="https://karnakon.ir/wp-content/uploads/2021/02/8-10.jpg"/>
@@ -17,6 +16,9 @@
 
 <a href="https://github.com/NARI1108"><img src="https://img.shields.io/github/followers/NARI1108.svg?label=@NARI1108&style=social"></a>
 <img src="https://img.shields.io/badge/PGP_key--PGP_key?logo=protonmail&style=social&logoColor=000000?link=https%3A%2F%2Fgithub.com%2FOR13.gpg?link=https%3A%2F%2Fgithub.com%2FOR13.gpg" alt="PGP/GPG Key"></a>
+
+<a href="https://github.com/NARI1108"><img src="https://img.shields.io/badge/:badgeContent?style=plastic&logo=github&logoColor=white&label=left&labelColor=background&color=black&cacheSeconds=https%3A%2F%2Fgithub.com%2FNARI1108%3Ftab%3Dfollowing"></a>
+
 
 
 As a Android developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
