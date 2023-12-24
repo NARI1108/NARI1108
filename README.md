@@ -57,10 +57,7 @@ My motto of being determined toward the software world and its development for t
 <a href = "2022naserahmadi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=ff91a4&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
-  </div>
+
   
 
 <div align="center">  
@@ -83,6 +80,11 @@ My motto of being determined toward the software world and its development for t
   <img src="https://github-profile-trophy.vercel.app/?username=NARI1108&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+   
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=ff91a4&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
+  </div>
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
