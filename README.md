@@ -52,6 +52,11 @@ My motto of being determined toward the software world and its development for t
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=#000000&center=true&vCenter=true&lines=Send+a+connection+request!;I+love+connecting+with+you">
+</p>
+
+
 <div align="center"> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "2022naserahmadi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
