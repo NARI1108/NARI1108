@@ -53,7 +53,7 @@ My motto of being determined toward the software world and its development for t
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=#000000&center=true&vCenter=true&lines=Send+a+connection+request!;I+love+connecting+with+you">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=000000&center=true&vCenter=true&lines=Send+a+connection+request!;I+love+connecting+with+you">
 </p>
 
 
