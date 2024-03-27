@@ -43,16 +43,13 @@ My motto of being determined toward the software world and its development for t
 
 
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> I'm  a Developer:
-<code><img title="Android" alt="html5" width="40px" src="https://wakatime.com/static/img/editor-icons/android-studio-128.png" /></code>
-</div>
+
 
 <!-- <p align="center"> -->  
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" /> -->
 <!-- </p> -->
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=ff91a4&center=true&vCenter=true&lines=Send+a+connection+request!;I+love+connecting+with+you">
