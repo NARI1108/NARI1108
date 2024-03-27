@@ -91,7 +91,7 @@ My motto of being determined toward the software world and its development for t
   </div>
 
 <p align="center">
-<a href="https://github.com/georgetoloraia">
+<a href="https://github.com/NARI1108">
    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg"/>
 </a>
 </p>
