@@ -89,7 +89,12 @@ My motto of being determined toward the software world and its development for t
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=ff91a4&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
   </div>
-  
+
+<p align="center">
+<a href="https://github.com/georgetoloraia">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-dark.svg"/>
+</a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
