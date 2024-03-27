@@ -10,7 +10,7 @@
 
 
 ## 👨‍💻 About Me
-## <img align="right" width='50%'  src="https://karnakon.ir/wp-content/uploads/2021/02/8-10.jpg"/>
+## <img align="right" width='50%'  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
   
  I'm a passionate self-taught Android Developer and a Freelance  Developer from Iran.
 
