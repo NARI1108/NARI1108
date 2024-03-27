@@ -10,7 +10,7 @@
 
 
 ## 👨‍💻 About Me
-## <img align="right" width='50%'  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+## <img align="right" width='50%'  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
   
  I'm a passionate self-taught Android Developer and a Freelance  Developer from Iran.
 
